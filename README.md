@@ -1,4 +1,5 @@
-# Space-Defenders
+# Space-Defenders ![Static Badge](https://img.shields.io/badge/language-python%20-%20green) ![Static Badge](https://img.shields.io/badge/module-pygame-green)
+
 Space Defenders is a clone of the classic game Space Invaders. Players control a spaceship with arrow keys left and right to shoot down alien invaders threatening Earth. Press spacebar to shoot lasers and while avoiding enemy fire and defeat the hostile aliens.\
 \
 Space Defenders was written in python with the pygame module. 
