@@ -248,9 +248,9 @@ while run:
         
         else:
             if game_over == -1:
-                draw_text('GAME OVER!', font40, white, int(screen_width / 2 - 100), int(screen_height / 2 + 50))
+                draw_text('GAME OVER!', font40, white, int(screen_width / 2 - 115), int(screen_height / 2 + 50))
             if game_over == 1:
-                draw_text('MISSION COMPLETE', font40, white, int(screen_width / 2 - 100), int(screen_height / 2 + 50))
+                draw_text('MISSION COMPLETE', font40, white, int(screen_width / 2 - 175), int(screen_height / 2 + 50))
 
     explosion_group.update()
 
