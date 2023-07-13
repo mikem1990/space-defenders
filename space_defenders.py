@@ -23,13 +23,13 @@ font30 = pygame.font.SysFont('Constantia', 30)
 font40 = pygame.font.SysFont('Constantia', 40)
 
 # load sounds
-explosion_fx = pygame.mixer.Sound("images/explosion.wav")
+explosion_fx = pygame.mixer.Sound("sounds/explosion.wav")
 explosion_fx.set_volume(0.10)
 
-explosion2_fx = pygame.mixer.Sound("images/explosion2.wav")
+explosion2_fx = pygame.mixer.Sound("sounds/explosion2.wav")
 explosion2_fx.set_volume(0.10)
 
-laser_fx = pygame.mixer.Sound("images/laser.wav")
+laser_fx = pygame.mixer.Sound("sounds/laser.wav")
 laser_fx.set_volume(0.05)
 
 # define game variables
